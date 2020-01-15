@@ -17,6 +17,10 @@ header {
     width: 100vw;
 }
 
+main {
+    padding-top: 80px;
+}
+
 .flex {
     display: flex;
     justify-content: space-between;
